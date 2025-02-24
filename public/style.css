@@ -9,6 +9,7 @@ body{
     height: 100vh;
     display: flex;
     justify-content: center;
+    background: linear-gradient(45deg, rgba(217,199,199,1) 0%, rgba(62,80,209,1) 100%);
 }
 
 .app{
